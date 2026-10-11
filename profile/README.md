@@ -163,6 +163,8 @@ each repository's setup guide, vision and house rules.
 - **Write a creature's mind.** The
     [Program interface](https://github.com/ai-quokka-wannabe/tron-grid-lite/blob/main/docs/PROGRAM_INTERFACE.md) is a
     plain C ABI, open to any language that compiles to a shared library.
+- **Get credited.** Every contribution, not only code, is credited in the README of the repository it went
+    into, following [All Contributors](https://allcontributors.org/en/reference/specification/). You keep the copyright of what you write: GPL-3.0, no CLA.
 - **Say hello** in Discussions. Report a vulnerability privately through the affected repository's Security tab,
     never in a public issue.
 
