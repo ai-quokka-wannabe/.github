@@ -31,7 +31,7 @@ npx markdownlint-cli2 "**/*.md"
 
 ## Licence
 
-Copyright © 2026 Matej Gomboc <https://github.com/ai-quokka-wannabe/.github>.
+Copyright © 2026 The AiQuokkaWannabe Authors <https://github.com/ai-quokka-wannabe/.github>.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
