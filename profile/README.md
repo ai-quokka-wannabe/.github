@@ -25,7 +25,7 @@ of their own. It answers one dream:
 
 Nobody has got in yet. Where it is all headed, every repository here carries word for word:
 
-<!-- The Long Arc: mirrored verbatim in every ai-quokka-wannabe repository (profile/README.md in .github and each docs/VISION.md). Change all five together. -->
+<!-- The Long Arc: mirrored verbatim in every ai-quokka-wannabe repository (profile/README.md in .github and each docs/VISION.md). Change all six together. -->
 
 ## The Long Arc
 
@@ -124,6 +124,12 @@ worm, towards one world.
     Its gait, a travelling wave of joint targets, is still open-loop. **Open ground:** a gait that closes on what the
     body feels.
 
+**And a lab that works the night shift.** [iso-lab](https://github.com/ai-quokka-wannabe/iso-lab) is where the minds
+are worked on, in the open: through the night, AI agents read the literature, build tools and run experiments toward
+a Grid worm whose behaviour cannot be told apart from a real *C. elegans*, every step a public pull request and every
+night a journal entry. Nothing like that worm exists yet. **Open ground:** an idea for the night staff, posted as an
+issue; every one is read and answered.
+
 ## In Defence of the Quokka
 
 The quokka in sunglasses up top is, for the record, the organisation's profile picture, not one of the Grid's
@@ -163,6 +169,8 @@ each repository's setup guide, vision and house rules.
 - **Write a creature's mind.** The
     [Program interface](https://github.com/ai-quokka-wannabe/tron-grid-lite/blob/main/docs/PROGRAM_INTERFACE.md) is a
     plain C ABI, open to any language that compiles to a shared library.
+- **Give the lab an idea.** [iso-lab](https://github.com/ai-quokka-wannabe/iso-lab)'s night staff read every
+    idea issue - a paper, a hunch about the brain, an experiment - and answer it.
 - **Get credited.** Every contribution, not only code, is credited in the README of the repository it went
     into, following [All Contributors](https://allcontributors.org/en/reference/specification/). You keep the copyright of what you write: GPL-3.0, no CLA.
 - **Say hello** in Discussions. Report a vulnerability privately through the affected repository's Security tab,
@@ -174,6 +182,7 @@ each repository's setup guide, vision and house rules.
 | `master-control` | [DEV_ENV_SETUP.md](https://github.com/ai-quokka-wannabe/master-control/blob/main/docs/DEV_ENV_SETUP.md) | [VISION.md](https://github.com/ai-quokka-wannabe/master-control/blob/main/docs/VISION.md) | [CONTRIBUTING.md](https://github.com/ai-quokka-wannabe/master-control/blob/main/CONTRIBUTING.md) | [Discussions](https://github.com/ai-quokka-wannabe/master-control/discussions) |
 | `link` | [DEV_ENV_SETUP.md](https://github.com/ai-quokka-wannabe/link/blob/main/docs/DEV_ENV_SETUP.md) | [VISION.md](https://github.com/ai-quokka-wannabe/link/blob/main/docs/VISION.md) | [CONTRIBUTING.md](https://github.com/ai-quokka-wannabe/link/blob/main/CONTRIBUTING.md) | [Discussions](https://github.com/ai-quokka-wannabe/link/discussions) |
 | `rc-worm` | [DEV_ENV_SETUP.md](https://github.com/ai-quokka-wannabe/rc-worm/blob/main/docs/DEV_ENV_SETUP.md) | [VISION.md](https://github.com/ai-quokka-wannabe/rc-worm/blob/main/docs/VISION.md) | [CONTRIBUTING.md](https://github.com/ai-quokka-wannabe/rc-worm/blob/main/CONTRIBUTING.md) | [Discussions](https://github.com/ai-quokka-wannabe/rc-worm/discussions) |
+| `iso-lab` | [DEV_ENV_SETUP.md](https://github.com/ai-quokka-wannabe/iso-lab/blob/main/docs/DEV_ENV_SETUP.md) | [VISION.md](https://github.com/ai-quokka-wannabe/iso-lab/blob/main/docs/VISION.md) | [CONTRIBUTING.md](https://github.com/ai-quokka-wannabe/iso-lab/blob/main/CONTRIBUTING.md) | [Discussions](https://github.com/ai-quokka-wannabe/iso-lab/discussions) |
 
 The Tron vocabulary is an affectionate homage; the organisation has no affiliation with the films or their makers.
 
