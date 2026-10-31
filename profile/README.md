@@ -15,7 +15,17 @@
 Hello, User. That second line is real: it is the line Master Control prints when it starts. It has no Users
 to greet yet, so this page does the honours. In the films, the Users wrote the Programs; the Grid needs its builders
 now. **AiQuokkaWannabe** builds it as free software, GPL-3.0-or-later, for creatures that know it only through senses
-of their own. It answers one dream:
+of their own.
+
+![rc-worm, the first Program, a green chain of eight segments crawling the neon Grid among glowing pillars and white food orbs](https://raw.githubusercontent.com/ai-quokka-wannabe/.github/main/profile/grid.webp)
+
+<sub>Live, not staged: rc-worm on the Grid as the spectator window shows it, with glowing white food orbs it can
+smell. Captured on an ordinary desk.</sub>
+
+**Want in today?** Pick a [good first issue](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aai-quokka-wannabe+label%3A%22good+first+issue%22)
+from any repository, or jump to [Come Build It](#come-build-it).
+
+It answers one dream:
 
 > The Grid. A digital frontier. I tried to picture clusters of information as they moved through
 > the computer. What did they look like? Ships? Motorcycles? Were the circuits like freeways? I
@@ -107,6 +117,21 @@ every run with *Greetings, Programs!* The long arc bends towards the day it has 
 worm, towards one world.
 
 ## Four Repositories, One Grid
+
+```mermaid
+flowchart LR
+    MC["master-control<br/>the world: physics, food, smell"]
+    W["tron-grid-lite<br/>spectator window"]
+    H["tron-grid-lite<br/>creature host: eyes and ears"]
+    P["rc-worm<br/>a Program: the mind"]
+    L(("link<br/>the wire"))
+    MC <-- world state / actions --> L
+    L <--> W
+    L <--> H
+    H <-- senses / intents, C ABI --> P
+    LAB["iso-lab<br/>night-shift research"] -. a worm brain, to come .-> B["a Program of its own"]
+    B -.-> H
+```
 
 - **[tron-grid-lite](https://github.com/ai-quokka-wannabe/tron-grid-lite)**, the flagship: TronGrid Lite ray traces
     light and sound through the same bounding-volume hierarchy, needing no ray-tracing hardware, into each creature's
