@@ -129,8 +129,6 @@ flowchart LR
     L <--> W
     L <--> H
     H <-- senses / intents, C ABI --> P
-    LAB["iso-lab<br/>night-shift research"] -. a worm brain, to come .-> B["a Program of its own"]
-    B -.-> H
 ```
 
 - **[tron-grid-lite](https://github.com/ai-quokka-wannabe/tron-grid-lite)**, the flagship: TronGrid Lite ray traces
