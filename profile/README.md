@@ -22,8 +22,11 @@ of their own.
 <sub>Live, not staged: rc-worm on the Grid as the spectator window shows it, with glowing white food orbs it can
 smell. Captured on an ordinary desk.</sub>
 
-**Want in today?** Pick a [good first issue](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aai-quokka-wannabe+label%3A%22good+first+issue%22)
-from any repository, or jump to [Come Build It](#come-build-it).
+**Want in today?** Pick a good first issue in
+[tron-grid-lite](https://github.com/ai-quokka-wannabe/tron-grid-lite/issues?q=is%3Aopen+label%3A%22good+first+issue%22),
+[master-control](https://github.com/ai-quokka-wannabe/master-control/issues?q=is%3Aopen+label%3A%22good+first+issue%22),
+[the link library](https://github.com/ai-quokka-wannabe/link/issues?q=is%3Aopen+label%3A%22good+first+issue%22) or
+[rc-worm](https://github.com/ai-quokka-wannabe/rc-worm/issues?q=is%3Aopen+label%3A%22good+first+issue%22), or jump to [Come Build It](#come-build-it).
 
 It answers one dream:
 
